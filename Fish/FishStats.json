@@ -1,5 +1,9 @@
 { Fish: 
-  { : }
+  { "Rainbow Trout": 
+    "eats": {"worms", "grasshoppers", "crickets", "salmon eggs", "artificial flies", "artificial spinners"}
+    ,"pH": {"lower":"unknown","higher":"unknown", "ideal":"unknown"}
+    ,"Temperature": {"lower":"unknown","higher":"unknown","ideal":"unkwown"}
+  }
 
 
 }
