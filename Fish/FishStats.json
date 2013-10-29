@@ -3,7 +3,7 @@
     "eats": {"worms", "grasshoppers", "crickets", "salmon eggs", "artificial flies", "artificial spinners"}
     ,"pH": {"lower":"unknown","higher":"unknown", "ideal":"unknown"}
     ,"Temperature": {"lower":"unknown","higher":"unknown","ideal":"unkwown"}
+    ,"Space Per Fish": {"lower":"unknown","higher":"unknown","ideal":"unkwown"}
+    ,"Light in Lumens": {"lower":"unknown","higher":"unknown","ideal":"unkwown"}
   }
-
-
 }
